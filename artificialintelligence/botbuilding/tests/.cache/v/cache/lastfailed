@@ -1,0 +1,5 @@
+{
+  "bot_clean.py::TestParent::test_1000": true, 
+  "bot_clean.py::TestParent::test_1001": true, 
+  "bot_clean.py::TestParent::test_1002": true
+}
